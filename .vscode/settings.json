@@ -2,5 +2,7 @@
     "prettier.packageManager": "yarn",
     "prettier.semi": false,
     "prettier.singleQuote": true,
-    "prettier.bracketSpacing": false
+    "prettier.bracketSpacing": false,
+    "editor.tabSize": 2,
+    "prettier.useTabs": true
 }
